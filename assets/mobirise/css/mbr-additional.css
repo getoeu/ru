@@ -1,0 +1,56 @@
+#dropdown-menu-2 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2 .nav .link,
+#dropdown-menu-2 .dropdown-item {
+  font-size: 1.2em;
+  color: #ffffff;
+}
+#dropdown-menu-2 .navbar,
+#dropdown-menu-2 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2 .dropdown-menu a:hover,
+#dropdown-menu-2 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2 .navbar-toggler {
+  color: #ffffff;
+}
+#header1-3 H1 {
+  text-align: center;
+  font-size: 24px;
+}
+#header1-3 P {
+  font-size: 14px;
+}
+#header1-3 .btn {
+  font-size: 12px;
+}
+#content4-6 .mbr-section__col .mbr-header__text {
+  font-size: 18px;
+  color: #f7da64;
+}
+#content4-6 P {
+  color: #efefef;
+  text-align: left;
+}
+#content4-6 .mbr-section-title .mbr-header__text {
+  color: #f7da64;
+}
+#pricing-table1-8 SPAN {
+  font-size: 60px;
+}
+#pricing-table1-8 SUP {
+  font-size: 14px;
+}
+#form1-9 .mbr-header__text {
+  color: #f7da64;
+}
+#social-buttons1-b .mbr-header__text {
+  color: #fac51c;
+}
+#contacts1-i B {
+  color: #fac51c;
+}
