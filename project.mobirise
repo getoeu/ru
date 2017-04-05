@@ -21,8 +21,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Документы для путешествий в ЕС",
+        "meta_descr": "Документы для путешествий в ЕС",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
